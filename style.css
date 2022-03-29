@@ -1,0 +1,12 @@
+.area--total{
+    background: rgb(108, 212, 207);
+    border: solid 1px;
+    height: 100vh;
+}
+
+.dobro {
+    border: solid 1px;
+    display: inline-block;
+    height: 250px;
+    width: 150px;
+}
