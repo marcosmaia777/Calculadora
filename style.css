@@ -1,12 +1,15 @@
 .area--total{
-    background: rgb(108, 212, 207);
-    border: solid 1px;
-    height: 100vh;
+    margin-left: 300px;
+    margin-top: 80px;
+    width: 900px;
+    height: 800px;
+    background: red;
 }
 
-.dobro {
+.area--multiplicação {
     border: solid 1px;
     display: inline-block;
     height: 250px;
     width: 150px;
+    margin: 10px;
 }
