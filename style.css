@@ -1,15 +1,12 @@
-.area--total{
-    margin-left: 300px;
-    margin-top: 80px;
-    width: 900px;
-    height: 800px;
-    background: red;
+.calc{
+    height: 350px;
+    width: 250px;
+    border: solid black 1px;
+    background: blue;
 }
 
-.area--multiplicação {
-    border: solid 1px;
-    display: inline-block;
-    height: 250px;
-    width: 150px;
-    margin: 10px;
+.calc-res{
+    height: 100px;
+    width: 230px;
+    background: red;
 }
