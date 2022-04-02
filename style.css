@@ -20,4 +20,8 @@ body{
     background:#363636;
     margin: 10px;
    border-radius: 10px;
+   color: white;
+   font-size: 22px;
+   text-align: end;
+   
 }
