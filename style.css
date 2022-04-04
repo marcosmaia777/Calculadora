@@ -7,7 +7,7 @@ body{
 }
 
 .calc{
-    height: 350px;
+    height: 320px;
     width: 200px;
     background:#ffc107;
     border-radius: 10px;
@@ -15,7 +15,7 @@ body{
 }
 
 .calc--res{
-    height: 150px;
+    height: 120px;
     width: 200px;
     background:black;
     margin-top: 15px;
@@ -27,7 +27,7 @@ body{
 
 .calc--buttons{
     height: 190px;
-    width: 205px;
+    width: 200px;
     background: #ffc107;
     border-radius: 10px;
     display: inline-block;
@@ -35,11 +35,21 @@ body{
 
 button{
     background: #ffc107;
-    font-size: 20px;
+    font-size: 25px;
     padding: 10px;
     border-radius: 10px;
     cursor: pointer;
-    border-width: 10px;
     border: 1px solid black;
+    height: 37px;
+    width: 37px;
+    color: black;
+    text-align: center;
 }
+
+
+
+.equals--button{
+    background: ffc107;
+    width: 200px;
+}   
 
