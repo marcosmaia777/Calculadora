@@ -15,38 +15,40 @@ body{
 }
 
 .calc--res{
-    height: 40px;
+    height: 80px;
     width: 200px;
     background:black;
     border-radius: 10px;
     color: white;
     font-size: 22px;
     text-align: end;
+    margin-bottom:5px;
 }
 
 .calc--buttons{
     height: 190px;
     width: 200px;
-    background: #ffc107;
+    background:#ffc107;
     border-radius: 10px;
     display: inline-block;
 }
 
 button{
-    background:#ffc107;
+    background:white;
     font-size: 25px;
     padding: 10px;
     border-radius: 10px;
     cursor: pointer;
-    border: 1px solid black;
-    height: 37px;
-    width: 37px;
-    color: white;
+    border: 1px solid #808080	;
+    height: 47px;
+    width: 47px;
+    color:black;
     text-align: center;
+    margin-bottom: 1px;
 }
 
 .equals--button{
-    background: ffc107;
+    background: #0d6efd;
     width: 200px;
 }   
 
