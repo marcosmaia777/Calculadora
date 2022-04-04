@@ -18,7 +18,7 @@ body{
     height: 80px;
     width: 200px;
     background:black;
-    border-radius: 10px;
+    border-radius: 5px;
     color: white;
     font-size: 22px;
     text-align: end;
@@ -52,3 +52,6 @@ button{
     width: 200px;
 }   
 
+button:hover{
+    background: #F0E68C	;
+}
