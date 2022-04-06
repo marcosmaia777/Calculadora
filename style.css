@@ -22,8 +22,7 @@ body{
     color: white;
     font-size: 30px;
     margin-bottom:5px;
-    direction: ltr;
-    text-align: end;
+    text-align: right;
 }
 
 .calc--buttons{
