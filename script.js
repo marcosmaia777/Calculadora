@@ -6,3 +6,10 @@ function insert (num) {
 function clean() {
    document.getElementById('result').innerHTML = " ";
 }
+
+function calcular () {
+   var result =  document.getElementById('result').innerHTML;
+   if(result){
+      document.getElementById('result').innerHTML = eval(result)
+   }
+}
