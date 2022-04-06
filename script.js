@@ -3,3 +3,6 @@ function insert (num) {
    document.getElementById('result').innerHTML = num + numero;
 }
 
+function clean() {
+   document.getElementById('result').innerHTML = " ";
+}
