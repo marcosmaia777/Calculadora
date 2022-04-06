@@ -4,7 +4,6 @@ body{
     justify-content: center;
     align-items: center;
     margin-top: 70px;
-    background-image: linear-gradient(to right, #FF8C00	, #FF0000	);
 }
 
 .calc{
@@ -22,8 +21,9 @@ body{
     border-radius: 5px;
     color: white;
     font-size: 22px;
-    text-align: right;
     margin-bottom:5px;
+    direction: ltr;
+    text-align: end;
 }
 
 .calc--buttons{
@@ -54,5 +54,6 @@ button{
 }   
 
 button:hover{
-    background: #F0E68C	;
+    background: #F0E68C;
+    transition: all 0.2s;
 }
